@@ -1,1 +1,1 @@
-# neural-network-challenge-2-1
+# neural-network-challenge-2
